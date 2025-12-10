@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ogee-dev.github.io/assets/banner.png" alt="Omar Abdullahi Full Stack Developer Banner" />
+  <img src="assets/banner.png" alt="Omar Abdullahi Full Stack Developer Banner" />
 </p>
 # 👋 Hi, I'm Omar Abdullahi
 ### 🚀 Self-Learned Full-Stack Developer | Crafting Scalable Web Solutions
