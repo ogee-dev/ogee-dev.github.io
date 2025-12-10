@@ -7,7 +7,7 @@ I'm a highly motivated, self-learned Full-Stack Developer specializing in delive
 
 I am actively seeking roles where I can leverage my expertise in modern web technologies and my passion for problem-solving to drive business value.
 
-🔗 **[View My Live Portfolio](https://ogee-dev.github.io)** | 🤝 **[Connect on LinkedIn](https://www.linkedin.com/in/omar-abdullahi-79692a167/)** | 📧 **ogeedev01@gmail.com**
+🔗 **[View My Live Portfolio](https://ogee-dev.github.io/ogee-dev)** | 🤝 **[Connect on LinkedIn](https://www.linkedin.com/in/omar-abdullahi-79692a167/)** | 📧 **ogeedev01@gmail.com**
 
 ---
 
